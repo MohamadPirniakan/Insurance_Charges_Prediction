@@ -23,7 +23,7 @@ charges: Medical charges incurred
 The target variable is charges  
 
 **Installation**  
-git clone https://github.com/your-username/Insurance_Charges_Prediction.git  
+git clone https://github.com/MohamadPirniakan/Insurance_Charges_Prediction.git  
 cd Insurance_Charges_Prediction  
 Install the required Python libraries  
 pip install -r requirements.txt  
