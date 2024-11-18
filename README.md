@@ -39,7 +39,6 @@ Visualize prediction results
 Run the script on the provided dataset or replace it with a similar dataset  
 
 **Results**
-
 **Mean Squared Error (MSE):** One of the key metrics for evaluating regression models. It measures the average squared difference between actual and predicted values.    
 In regression problems, the output is a continuous numerical value (e.g., insurance charges), making accuracy an unsuitable metric.  
 **Visual Comparison:** A plot showing actual vs. predicted charges to assess model performance intuitively.  
